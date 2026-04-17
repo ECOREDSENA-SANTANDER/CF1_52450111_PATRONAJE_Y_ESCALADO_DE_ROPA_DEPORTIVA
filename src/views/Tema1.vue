@@ -7,7 +7,7 @@
           span 1
         h1 Estructura del cuerpo infantil
         
-      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-3
+      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-3(data-aos="zoom-in-left")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/Tema1/img01.png')})`}"
         )
@@ -20,7 +20,7 @@
 
       p Los conceptos que se describen a continuación articulan los fundamentos de la estructura corporal infantil con las exigencias técnicas del patronaje especializado en ropa deportiva.
 
-      .tarjeta.fondo01.p-2
+      .tarjeta.fondo01.p-2(data-aos="zoom-in-left")
         SlyderA(tipo="b").p-4
           .row.justify-content-center
             .col-lg-5.mb-4.mb-md-0
@@ -96,7 +96,7 @@
         h2 1.1  División del cuerpo       
             
       p A partir de lo abordado en los conceptos anteriores, es indispensable saber cómo se contempla la división del cuerpo en relación a sus miembros para poder entenderlo a partir de la clasificación de las prendas inferiores y superiores. 
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
         .col-lg-10.mb-3
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 3.
@@ -113,11 +113,11 @@
             img.w-card-icon(src="@/assets/curso/Tema1/icono.svg")
             h3.bg1.py-2.w-card-text.text-white Prendas superiores
 
-      .row.justify-content-center.align-items-stretch.mb-4
+      .row.justify-content-center.align-items-stretch.mb-4(data-aos="zoom-in-left")
         .col-sm-6.col-lg-4.mb-4.mb-lg-0.d-flex
           .tarjeta--boton.color-primario.p-4.w-100
             .row.justify-content-center.mb-3
-              .col-lg-5
+              .col-lg-5.col-6
                 figure
                   img(src='@/assets/curso/Tema1/1.svg', alt='Texto que describa la imagen')
             h4.text-center Hombros y cuello
@@ -126,7 +126,7 @@
         .col-sm-6.col-lg-4.mb-4.mb-lg-0.d-flex
           .tarjeta--boton.color-primario.p-4.w-100
             .row.justify-content-center.mb-3
-              .col-lg-5
+              .col-lg-5.col-6
                 figure
                   img(src='@/assets/curso/Tema1/2.svg', alt='Texto que describa la imagen')
             h4.text-center Busto y torso
@@ -135,7 +135,7 @@
         .col-sm-6.col-lg-4.mb-4.mb-sm-0.d-flex
           .tarjeta--boton.color-primario.p-4
             .row.justify-content-center.mb-3
-              .col-lg-5
+              .col-lg-5.col-6
                 figure
                   img(src='@/assets/curso/Tema1/3.svg', alt='Texto que describa la imagen')
             h4.text-center Cintura
@@ -147,10 +147,10 @@
             img.w-card-icon(src="@/assets/curso/Tema1/icono.svg")
             h3.bg1.py-2.w-card-text.text-white Prendas inferiores
 
-      .tarjeta--container.row.mb-4
+      .tarjeta--container.row.mb-4(data-aos="zoom-in-left")
         .col-md.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-4
-            .col-lg-6
+            .col-lg-6.col-6
               figure
                 img(src='@/assets/curso/Tema1/01.svg', alt='Texto que describa la imagen')          
           h3.text-center.text-white Caderas y glúteos
@@ -158,7 +158,7 @@
         
         .col-md.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-4
-            .col-lg-6
+            .col-lg-6.col-6
               figure
                 img(src='@/assets/curso/Tema1/02.svg', alt='Texto que describa la imagen')          
           h2.text-center.text-white Muslos y piernas
@@ -173,10 +173,10 @@
           p Relacionado a prendas anteriores, se incluyen medias. 
 
 
-      .cajon.color-acento-contenido.p-4.mb-4
+      .cajon.color-acento-contenido.p-4.mb-4(data-aos="zoom-in-left")
         p Se invita a explorar el video, donde se abordan nociones básicas de la estructura corporal como anatomía, ejes, antropometría, ergonomía, somatotipos, siluetas y posturas.
 
-      .row.justify-content-center.align-items-center           
+      .row.justify-content-center.align-items-center(data-aos="zoom-in-left")           
         .col-lg-12
           figure
             .video

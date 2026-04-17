@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="zoom-in-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/portada/img01.png')})`}"
       )
@@ -20,7 +20,7 @@
     
     p.mb-4 La metodología empleada toma como referencia el Manual de patronaje básico e interpretación de diseños del SENA, adaptando sus lineamientos a las condiciones morfológicas del cuerpo infantil y a las exigencias funcionales del vestuario deportivo. El dominio de los contenidos aquí desarrollados sienta las bases para abordar con rigor técnico los procesos de construcción, transformación y escalado de patrones.
     
-    .row.justify-content-center.align-items-center           
+    .row.justify-content-center.align-items-center(data-aos="zoom-in-left")        
       .col-lg-12
         figure
           .video

@@ -62,17 +62,33 @@ figcaption
     background-size: cover 
   @media screen and (max-width: 767px)
     background-size: cover 
+.fondo-banner
+  background-image: url('../assets/curso/Tema2/banner.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  @media screen and (max-width: 992px)
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    background-size: cover 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs 
   background-color: #FFA200
 .slyder-a__bullets__item--active 
   background-color: #FFA200
   border-color: #FFA200
   opacity: 1
+.tarjeta.color-acento-botones * 
+  color: #12263F
+.boton.color-acento-botones *, .color-acento-botones.boton--sm * 
+  color:  #12263F !important
+
+
 .titulo-segundo:after 
   border-left-color: #BEE645
 .cajon.color-primario 
   background-color: #99B5E8
-
+.cajon.color-secundario 
+  background-color: #EDEBF0
 .w-card-icon
   width: min-content
   z-index: 1
@@ -85,6 +101,8 @@ figcaption
 .bg1
   background-color: #0048C5
   border-radius: 20px
+.bg2
+  background-color: #FFA200
 .tarjeta--boton 
   background-color: #99B5E8
 .tarjeta--boton.color-primario:hover
@@ -94,6 +112,41 @@ figcaption
 .cajon.color-acento-contenido 
   background-color: #F9FDEC
 
+.tarjeta.color-acento-botones--borde
+  background-color: #FFF6E5
+  border: #FFF6E5
+.tabs-a__tab 
+   background-color: #E5ECF9 !important
+   color: #12263F !important
+.tabs-a__tab   
+  display: block
+  width: 100%
+  text-align: left
+  padding: 15px 20px
+  border-radius: 5px
+  line-height: 1.2em
+  &__text
+    overflow: hidden
+    text-overflow: ellipsis 
+    white-space: normal 
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #FFA200 !important
+  color: #12263F !important
+.acordion__accion__btn--a 
+  background-color: #FFA200 !important
+.acordion .tarjeta--azul
+  background-color: #99B5E8 !important
+  h3,
+    color: #12263F
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #FFF3CC !important
+  h3,
+    color: #12263F
+
+.slyder-a__bullets__item 
+  width: 10px
+  height: 10px
+  margin: 0 5px
 
 
  
