@@ -174,8 +174,8 @@
     .fondo3
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
-          .tarjeta.bg3.p-2(data-aos="zoom-in-left")
-            SlyderA(tipo="a").p-5
+          .tarjeta.bg3(data-aos="zoom-in-left")
+            SlyderA(tipo="a").p-4
               .row.justify-content-center
                 .col-lg-8.mb-2.mb-md-0.col-12
                   .titulo-sexto.color-acento-contenido(data-aos='fade-right')
