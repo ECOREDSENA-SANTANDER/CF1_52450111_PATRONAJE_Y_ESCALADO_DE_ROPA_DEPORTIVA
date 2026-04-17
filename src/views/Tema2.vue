@@ -26,7 +26,7 @@
 
     p El sistema de medidas se clasifica en:
 
-    .row.mb-0(data-aos="zoom-in-left")
+    .row.mb-4(data-aos="zoom-in-left")
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/Tema2/1.svg' alt='')
