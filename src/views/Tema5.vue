@@ -133,7 +133,7 @@
         p.mb-0 También pueden añadirse otras especificaciones, como detalles de estampación, cambios de color o material, acabados especiales y ubicación de elementos como bolsillos.
           br
           br
-          | En cuanto al trazo, se utilizan formas geométricas básicas como horizontal, vertical, perpendicular, rectángulo, cuadrado, paralelo, ángulo recto, diagonal, vértice, radio, curva cóncava, convexa, entre otras. Toda construcción parte de un rectángulo base, considerando el contorno y el largo del patrón principal.
+          | En cuanto al trazo, se utilizan #[b formas geométricas básicas] como horizontal, vertical, perpendicular, rectángulo, cuadrado, paralelo, ángulo recto, diagonal, vértice, radio, curva cóncava, convexa, entre otras. Toda construcción parte de un rectángulo base, considerando el contorno y el largo del patrón principal.
 
     p Las escalas permiten representar piezas a tamaño real o reducido. Las más comunes son:
     .row.justify-content-center.align-items-center.mb-2(data-aos='fade-right')
@@ -255,7 +255,7 @@
 
       .row.justify-content-center(titulo="Manejo del papel")
         .col-lg-6.mb-2.mb-md-0
-          p El trazado de moldes infantiles se ejecuta sobre papeles especializados, siendo el papel trazo o manifold el material de uso técnico estándar. Este tipo de papel presenta dos caras diferenciadas: una lisa y brillante, y otra opaca y corrugada. Se recomienda trabajar sobre la superficie opaca, ya que ofrece mejor adherencia al grafito y reduce los reflejos de luz que generan fatiga ocular durante el trazado. El uso de papel blanco contribuye adicionalmente a la legibilidad y claridad de las líneas del molde.
+          p El trazado de moldes infantiles se ejecuta sobre papeles especializados, siendo el papel trazo o #[em manifold] el material de uso técnico estándar. Este tipo de papel presenta dos caras diferenciadas: una lisa y brillante, y otra opaca y corrugada. Se recomienda trabajar sobre la superficie opaca, ya que ofrece mejor adherencia al grafito y reduce los reflejos de luz que generan fatiga ocular durante el trazado. El uso de papel blanco contribuye adicionalmente a la legibilidad y claridad de las líneas del molde.
         .col-lg-5.col-11.col-md-10
           figure
             img(src='@/assets/curso/Tema5/6.png', alt='Texto que describa la imagen')
@@ -295,10 +295,10 @@
       table
         thead
           tr
-            th.w-10 Paso
-            th Fórmula o medida
-            th Trazado
-            th Función en el patrón básico infantil
+            th.w-10.text-izq Paso
+            th.text-izq Fórmula o medida
+            th.text-izq Trazado
+            th.text-izq Función en el patrón básico infantil
         tbody
           tr
             td.text-center 1
@@ -363,15 +363,21 @@
       table
         thead
           tr
-            th.w-10 Paso
-            th Fórmula o medida
-            th Trazado
-            th Función en el patrón básico infantil
+            th.w-10.text-izq Paso
+            th.text-izq Fórmula o medida
+            th.text-izq Trazado
+            th.text-izq Función en el patrón básico infantil
         tbody
           tr
             td.text-center 1
-            td Ancho = B/2 + 3 cm.
-              Alto = B/4 + 0.5 cm.
+            td 
+              ul.lista-ul--color
+                li
+                  i.fas
+                  | Ancho = B/2 + 3 cm.
+                li
+                  i.fas
+                  | Alto = B/4 + 0.5 cm.
             td Rectángulo inicial del patrón.
             td Define la base estructural a partir del contorno de busto y largo de espalda.
           tr
@@ -433,19 +439,26 @@
       table
         thead
           tr
-            th.w-10 Paso
-            th Fórmula o medida
-            th Trazado
-            th Función en el patrón básico infantil
+            th.w-10.text-izq Paso
+            th.text-izq Fórmula o medida
+            th.text-izq Trazado
+            th.text-izq Función en el patrón básico infantil
         tbody
           tr
             td.text-center 1
-            td Ancho = circunferencia de brazo/2 + 2.5.
+            td
+              ul.lista-ul.mb-0
+                li
+                  i.fas
+                  | Ancho = circunferencia de brazo/2 + 2.5. 
+                li
+                  i.fas
+                  | Alto = largo de manga.
             td Trazar el rectángulo base con ancho y alto según medidas.
             td Define la estructura inicial de la manga a partir de las medidas infantiles.
           tr
             td.text-center 2
-            td En este paso no se aplica formula.
+            td En este paso no se aplica fórmula.
             td Dividir el rectángulo en dos mitades verticales.
             td Establece la línea central de referencia para la copa de la manga.
           tr

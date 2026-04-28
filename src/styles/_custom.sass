@@ -52,7 +52,8 @@
   color: $color-primario
 figcaption
   font-weight: normal
-
+.text-izq
+  text-align: left !important
 .fondo01
   background-image: url('../assets/curso/Tema1/fondosly.png')
   background-position: center
@@ -220,3 +221,26 @@ figcaption
 .linea-tiempo-c.color-acento-botones .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot 
   border-color: #FFA200
   background-color: #ffff
+
+.w-25
+  width: 25%
+.w-75
+  width: 75%
+
+.tabla-a table 
+  width: 100%
+  table-layout: fixed
+
+.tabla-a 
+  overflow-x: auto
+
+@media (min-width: 992px) 
+  .tabla-a 
+    overflow-x: hidden
+  .tabla-a table 
+    width: 100%
+    table-layout: fixed
+  .tabla-a th,
+  .tabla-a td 
+    word-break: break-word
+    overflow-wrap: break-word

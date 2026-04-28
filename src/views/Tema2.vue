@@ -18,7 +18,7 @@
     
     separador
     #t_2_1.titulo-segundo.mb-5(data-aos="zoom-in-left")
-      h2 2.1  Sistemas de medidas – clasificacións
+      h2 2.1  Sistemas de medidas – clasificación
 
     .cajon.color-secundario.p-4.mb-4(data-aos="zoom-in-left")
       p El sistema de medidas en el área de patronaje hace referencia al conjunto de técnicas y procesos que se utilizan para obtener y dar aplicación con los datos obtenidos de las medidas corporales, las cuales han de ser precisas en la elaboración de patrones de prendas de vestir. 
@@ -73,7 +73,7 @@
       .col-lg-12
         .bg2.p-4
           h5 Las medidas corporales
-          p las medidas corporales se toman considerando los puntos de anclaje del cuerpo humano, a partir de parámetros antropométricos y anatómicos que garantizan la reproducibilidad y consistencia de los datos. En este proceso se tienen en cuenta los volúmenes y protuberancias corporales como referencias estructurales para la ubicación correcta de la cinta métrica. Según su dirección y naturaleza, las medidas corporales se clasifican en tres grupos:
+          p Las medidas corporales se toman considerando los puntos de anclaje del cuerpo humano, a partir de parámetros antropométricos y anatómicos que garantizan la reproducibilidad y consistencia de los datos. En este proceso se tienen en cuenta los volúmenes y protuberancias corporales como referencias estructurales para la ubicación correcta de la cinta métrica. Según su dirección y naturaleza, las medidas corporales se clasifican en tres grupos:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-8.mb-4.col-md-6
         img(src="@/assets/curso/Tema2/img03.png")
@@ -92,7 +92,7 @@
     p En la siguiente figura se presentan largos, anchos y contornos de la figura humana infantil. 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
-      .col-lg-10
+      .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 4.
           span Toma de medidas infantil
@@ -112,7 +112,7 @@
 
     p La proporción versus el canon hace referencia a cuantas cabezas caben en la altura del cuerpo, para ello es importante precisar: 
 
-    .row.mb-0(data-aos="zoom-in-left")
+    .row.mb-4(data-aos="zoom-in-left")
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/Tema2/3.svg' alt='')

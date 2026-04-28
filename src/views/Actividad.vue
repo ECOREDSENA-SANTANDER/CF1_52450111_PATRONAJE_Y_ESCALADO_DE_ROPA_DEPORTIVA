@@ -301,7 +301,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Sleepwear, destinado a prendas de descanso y uso nocturno.',
+                '<i>Sleepwear</i>, destinado a prendas de descanso y uso nocturno.',
               esCorrecta: false,
             },
             {
@@ -313,7 +313,7 @@ export default {
             {
               id: 'c',
               texto:
-                'Swimwear, orientado exclusivamente al uso en piscina y playa.',
+                '<i>Swimwear</i>, orientado exclusivamente al uso en piscina y playa.',
               esCorrecta: false,
             },
             {
@@ -775,7 +775,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        'Has superado la actividad y demuestras sólidos conocimientos sobre la estructura corporal infantil, los sistemas de medidas y los fundamentos del patronaje básico.',
+        'Has superado la actividad y demuestra sólidos conocimientos sobre la estructura corporal infantil, los sistemas de medidas y los fundamentos del patronaje básico.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

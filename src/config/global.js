@@ -276,7 +276,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -290,7 +290,7 @@ export default {
       autores: [
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

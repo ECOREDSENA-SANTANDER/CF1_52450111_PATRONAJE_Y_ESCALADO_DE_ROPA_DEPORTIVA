@@ -36,11 +36,12 @@
       span Clasificación de universos del vestuario por ocasión de uso
     .tabla-a.color-acento-contenido.mb-5
       table
+        caption Fuente: (Sena, 2025)
         thead
           tr
-            th Universo
-            th Uso
-            th Ejemplos
+            th.text-izq Universo
+            th.text-izq Uso
+            th.text-izq Ejemplos
         tbody
           tr
             td Formal
@@ -49,7 +50,7 @@
           tr
             td Informal casual
             td Vida cotidiana, actividades diarias.
-            td Pantalones en denim, camisetas, camisas, zapatillas, vestidos ligeros.
+            td Pantalones en #[em denim], camisetas, camisas, zapatillas, vestidos ligeros.
           tr
             td Deportivo o funcional
             td Actividad física, trabajo especializado.
@@ -64,7 +65,7 @@
             td Vestidos largos, trajes formales, indumentaria cultural.
           tr
             td Fantasía
-            td Teatro, cine, *cosplay*, carnaval.
+            td Teatro, cine, #[em cosplay], carnaval.
             td Disfraces, vestuario teatral, trajes de época.
           tr
             td #[em Swimwear]
@@ -85,14 +86,15 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-6
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 1.
+          h5 Tabla 2.
           span Clasificación de universos del vestuario por ocasión de uso
         .tabla-a.color-acento-contenido.mb-4
           table
+            caption Fuente: (Sena, 2025)
             thead
               tr
-                th.w-25 Ocasión de uso
-                th.w-50 Universo de vestuario
+                th.w-25.text-izq Ocasión de uso
+                th.w-75.text-izq Universo de vestuario
             tbody
               tr
                 td Protocolario

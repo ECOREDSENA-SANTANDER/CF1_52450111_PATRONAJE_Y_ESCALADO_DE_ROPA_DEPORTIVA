@@ -84,14 +84,28 @@
         .row.justify-content-center(titulo=" E").p-4
           .col-lg-5.mb-3.text-white.mb-3
             h4 Factores que afectan el aprovechamiento
-            P #[b Forma y número de piezas:] prendas con muchas piezas pequeñas tienden a generar más sobrantes.
-            p #[b Ancho de la tela:] a mayor ancho, más oportunidades de optimización.
-            p #[b Diseño o estampado:] telas con dibujos direccionados limitan la rotación de piezas.
-            p #[b Técnicas de corte:] el uso de software de corte o corte manual puede influir en el rendimiento.  
+            ul.lista-ul
+              li.d-flex
+                i.fas •
+                P.mb-0 #[b Forma y número de piezas:] prendas con muchas piezas pequeñas tienden a generar más sobrantes.
+              li.d-flex
+                i.fas •
+                p.mb-0 #[b Ancho de la tela:] a mayor ancho, más oportunidades de optimización.
+              li.d-flex
+                i.fas •
+                p.mb-0 #[b Diseño o estampado:] telas con dibujos direccionados limitan la rotación de piezas.
+              li.d-flex
+                i.fas •
+                p.mb-0 #[b Técnicas de corte:] el uso de #[em software] de corte o corte manual puede influir en el rendimiento.  
           .col-lg-5.mb-3.text-white.mb-3
             h4 Consideraciones adicionales
-            P Siempre se recomienda dejar un margen de seguridad del 5 - 10 % al comprar tela.
-            p El uso de retales sobrantes en otras prendas o complementos puede mejorar el rendimiento general.
+            ul.lista-ul
+              li.d-flex
+                i.fas •
+                P Siempre se recomienda dejar un margen de seguridad del 5 - 10 % al comprar tela.
+              li.d-flex
+                i.fas •
+                p  El uso de retales sobrantes en otras prendas o complementos puede mejorar el rendimiento general.
 
 
 
