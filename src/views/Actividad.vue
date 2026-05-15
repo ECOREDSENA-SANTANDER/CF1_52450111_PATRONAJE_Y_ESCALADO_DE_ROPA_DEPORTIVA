@@ -775,7 +775,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        'Has superado la actividad y demuestra sólidos conocimientos sobre la estructura corporal infantil, los sistemas de medidas y los fundamentos del patronaje básico.',
+        'Ha superado la actividad y demuestra sólidos conocimientos sobre la estructura corporal infantil, los sistemas de medidas y los fundamentos del patronaje básico.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

@@ -36,7 +36,7 @@
       span Clasificación de universos del vestuario por ocasión de uso
     .tabla-a.color-acento-contenido.mb-5
       table
-        caption Fuente: (Sena, 2025)
+        caption Fuente: SENA (2025)
         thead
           tr
             th.text-izq Universo
@@ -87,10 +87,10 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 2.
-          span Clasificación de universos del vestuario por ocasión de uso
+          span Ocasión de uso por universo de vestuario
         .tabla-a.color-acento-contenido.mb-4
           table
-            caption Fuente: (Sena, 2025)
+            caption Fuente: (SENA 2025)
             thead
               tr
                 th.w-25.text-izq Ocasión de uso
@@ -126,16 +126,16 @@
                     li
                       i
                       | #[em Activewear]
+                    li
+                      i
+                      | #[em Leisurewear]
               tr
-                td Oficina o ejecutivo
+                td Complementos
                 td
                   ul.lista-ul
                     li
                       i
-                      | #[em Swimwear]
-                    li
-                      i
-                      | #[em beachwear]
+                      | #[em Swimwear] - #[em beachwear]
                     li
                       i
                       | #[em Sleepwear]

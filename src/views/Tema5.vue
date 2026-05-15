@@ -474,7 +474,7 @@
             td Forma la parte superior de la manga; curva más pronunciada en delantero.
           tr
             td.text-center 5
-            td En este paso no se aplica formula.
+            td En este paso no se aplica fórmula.
             td Desde extremos de la copa, bajar recto hasta la base; ensanchar +1.2 cm a cada lado.
             td Define los laterales de la manga y otorga amplitud en el puño.
           tr

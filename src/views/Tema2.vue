@@ -92,7 +92,7 @@
     p En la siguiente figura se presentan largos, anchos y contornos de la figura humana infantil. 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
-      .col-lg-12
+      .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 4.
           span Toma de medidas infantil
