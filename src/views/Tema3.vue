@@ -90,7 +90,7 @@
           span Ocasión de uso por universo de vestuario
         .tabla-a.color-acento-contenido.mb-4
           table
-            caption Fuente: (SENA 2025)
+            caption Fuente: SENA, (2025)
             thead
               tr
                 th.w-25.text-izq Ocasión de uso

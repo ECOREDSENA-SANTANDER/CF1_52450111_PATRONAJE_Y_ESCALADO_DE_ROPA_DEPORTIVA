@@ -491,23 +491,23 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/IFVssuNFdEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/AZOdPmQQcc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Base superior infantil
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left").mb-3      
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/LK1Q-kl812Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Básico de pantalón infantil
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/lhGXP9fE1RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Base básico de pantalón infantil
 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left").mb-3      
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/4CuZvqrSnJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Base de falda infantil
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/dVNP4lG89hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Base inferior falda infantil
 
 
 

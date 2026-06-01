@@ -97,7 +97,7 @@
           h5 Figura 4.
           span Toma de medidas infantil
       .col-lg-12
-        img(src="@/assets/curso/Tema2/fig4.svg", alt="Diagrama de una figura femenina con líneas y números que señalan puntos clave de medición corporal, incluyendo contornos, anchos, largos y estatura total, utilizados como referencia en patronaje y confección.")
+        img(src="@/assets/curso/Tema2/fig4.png", alt="Diagrama de una figura femenina con líneas y números que señalan puntos clave de medición corporal, incluyendo contornos, anchos, largos y estatura total, utilizados como referencia en patronaje y confección.")
 
     separador
     #t_2_3.titulo-segundo.mb-5(data-aos="zoom-in-left")
