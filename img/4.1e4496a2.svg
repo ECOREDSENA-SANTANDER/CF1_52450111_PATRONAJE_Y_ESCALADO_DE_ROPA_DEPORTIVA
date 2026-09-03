@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="525" height="93" viewBox="0 0 525 93">
+  <g id="Grupo_1177310" data-name="Grupo 1177310" transform="translate(-2386.289 8569.436)">
+    <rect id="Rectángulo_407402" data-name="Rectángulo 407402" width="525" height="93" rx="10" transform="translate(2386.289 -8569.436)" fill="#fff"/>
+    <g id="Grupo_1113951" data-name="Grupo 1113951" transform="translate(2079.271 -14510.436)">
+      <text id="Aprovechamiento_" data-name="Aprovechamiento (%) =" transform="translate(401.018 5991)" fill="#12263f" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-82.992" y="0">Aprovechamiento (%) =</tspan></text>
+      <text id="Área_útil_utilizada_por_los_patrones" data-name="Área útil utilizada por los patrones" transform="translate(633.018 5978)" fill="#12263f" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-122.527" y="0">Área útil utilizada por los patrones</tspan></text>
+      <text id="_" data-name="(" transform="translate(494.018 6007)" fill="#12263f" font-size="56" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-8.928" y="0">(</tspan></text>
+      <text id="_2" data-name=")" transform="translate(769.018 6007)" fill="#12263f" font-size="56" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-9.119" y="0">)</tspan></text>
+      <text id="X_100" data-name="X 100" transform="translate(800.018 5991)" fill="#12263f" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-20.695" y="0">X 100</tspan></text>
+      <text id="Área_total_del_metro_de_tela" data-name="Área total del metro de tela" transform="translate(633.018 6005)" fill="#12263f" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-96.973" y="0">Área total del metro de tela</tspan></text>
+      <path id="Trazado_896850" data-name="Trazado 896850" d="M6446.625-5625.255h246.506" transform="translate(-5944.982 11610.255)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
