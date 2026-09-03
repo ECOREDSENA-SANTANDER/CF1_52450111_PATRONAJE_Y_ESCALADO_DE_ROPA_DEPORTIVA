@@ -38,7 +38,7 @@
         .row.justify-content-center.align-items-center(titulo="A").p-4
           .col-lg-5.mb-3.col-md-8
             figure
-              img(src='@/assets/curso/Tema4/1.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/Tema4/1.png', alt='')
           .col-lg-6.mb-4.mb-md-0.text-white
             h4 Trazado de las piezas del patrón 
             p Coloque las piezas del patrón sobre la tela respetando: 
@@ -48,7 +48,7 @@
         .row.justify-content-center.align-items-center(titulo="B").p-4
           .col-lg-5.mb-3.col-md-8
             figure
-              img(src='@/assets/curso/Tema4/2.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/Tema4/2.png', alt='')
           .col-lg-6.mb-4.mb-md-0.text-white
             h4 Distribución y encaje de piezas 
             p Organice las piezas para que ocupen el menor espacio posible dentro del ancho de la tela (normalmente 1.40 m o 1.50 m). Aquí se busca una disposición eficiente, como encajar piezas en ángulos o rotarlas si el diseño lo permite. 
@@ -56,7 +56,7 @@
         .row.justify-content-center.align-items-center(titulo="C").p-4
           .col-lg-5.mb-3.col-md-8
             figure
-              img(src='@/assets/curso/Tema4/3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/Tema4/3.png', alt='')
           .col-lg-6.mb-4.mb-md-0.text-white
             h4 Medición de tela usada  
             p Mida el largo total de tela utilizado una vez acomodadas todas las piezas. Por ejemplo, si las piezas distribuidas ocupan 0.95 metros del total de 1 metro adquirido, ese será su valor de uso real. 

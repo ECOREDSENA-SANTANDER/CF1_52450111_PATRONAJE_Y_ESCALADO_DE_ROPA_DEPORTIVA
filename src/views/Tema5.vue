@@ -30,7 +30,7 @@
         figure
           img(src='@/assets/curso/Tema5/fig15.svg', alt='Desarrollo en plano de un cubo formado por seis cuadrados unidos, dispuesto en forma de cruz con pestañas laterales para su armado.')
       .col-lg-4.col-8.col-md-6
-        img(src='@/assets/curso/Tema5/img02.png', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/Tema5/img02.png', alt='')
     p Teniendo en cuenta lo abordado hasta ahora, es pertinente preguntarse: ¿para qué sirve el patronaje? Su utilidad radica en trasladar la estructura del cuerpo humano a planos técnicos, que luego se convierten en moldes para la confección de prendas.
 
     .tarjeta.fondo-banner.p-4.mb-4(data-aos="zoom-in-left")
@@ -224,48 +224,48 @@
           p Antes de iniciar el trazado, se identifica el tipo de plano sobre el cual se desarrollará el molde. Este puede ser unido, separado o montado, y su definición depende de las características estructurales de la prenda que se esté construyendo, tanto superior como inferior. La correcta identificación del plano condiciona la disposición de las piezas y la relación entre ellas durante el proceso de trazado.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema5/1.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema5/1.png', alt='')
 
       .row.justify-content-center(titulo="Rectángulo inicial")
         .col-lg-6.mb-2.mb-md-0
           p Todo trazo básico se origina en la construcción de un rectángulo, figura geométrica que actúa como estructura de referencia del molde. Sus dimensiones se establecen a partir de la medida de contorno más prominente y el largo principal de la zona corporal a trabajar. Según el tipo de prenda, las medidas de referencia varían, en prendas superiores se emplean el contorno de pecho y el talle posterior, mientras que en prendas inferiores se utilizan el contorno de cadera y el largo de pierna o tiro, según corresponda.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema5/2.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema5/2.png', alt='')
       .row.justify-content-center(titulo=" Medida de contorno más prominente")
         .col-lg-6.mb-2.mb-md-0
           p La medida de contorno más prominente varía según el tipo de prenda que se esté trazando. En prendas superiores infantiles, el contorno de pecho constituye la referencia estructural central del patrón base; en prendas inferiores, esta función la cumple el contorno de cadera. En ambos casos, dicha medida se representa mediante convenciones o letras que facilitan y estandarizan el proceso de trazado.
           p #[b • Ejemplo:] P = contorno de pecho de la talla seleccionada / C = contorno de cadera de la talla seleccionada.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema5/3.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema5/3.png', alt='')
       .row.justify-content-center(titulo="Medida de largo principal")
         .col-lg-6.mb-2.mb-md-0
           p El largo inicial del rectángulo se determina a partir de la medida más extensa de la zona corporal a trabajar. En prendas superiores se emplea el largo de talle posterior como referencia de equilibrio estructural del molde; en prendas inferiores, el largo de pierna o el largo total según la tipología de la prenda. Esta medida garantiza la correcta distribución de las piezas sobre el cuerpo en cada caso.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema5/4.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema5/4.png', alt='')
 
       .row.justify-content-center(titulo="Medidas empleadas en el trazo")
         .col-lg-6.mb-2.mb-md-0
           p La metodología del patronaje infantil trabaja predominantemente con medidas deducidas mediante fórmulas, complementando los datos extraídos directamente de los cuadros de tallas. Del cuadro se toman las medidas de contorno y largo principales, mientras que dimensiones secundarias como anchos de espalda, cuello, hombro, tiro o rodilla se obtienen por cálculo derivado. Este enfoque garantiza la proporcionalidad del molde frente a las variaciones morfológicas propias de cada grupo etario.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema5/5.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema5/5.png', alt='')
 
       .row.justify-content-center(titulo="Manejo del papel")
         .col-lg-6.mb-2.mb-md-0
           p El trazado de moldes infantiles se ejecuta sobre papeles especializados, siendo el papel trazo o #[em manifold] el material de uso técnico estándar. Este tipo de papel presenta dos caras diferenciadas: una lisa y brillante, y otra opaca y corrugada. Se recomienda trabajar sobre la superficie opaca, ya que ofrece mejor adherencia al grafito y reduce los reflejos de luz que generan fatiga ocular durante el trazado. El uso de papel blanco contribuye adicionalmente a la legibilidad y claridad de las líneas del molde.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema5/6.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema5/6.png', alt='')
 
       .row.justify-content-center(titulo="Siluetas")
         .col-lg-6.mb-2.mb-md-0
           p El tratamiento de siluetas en el patronaje infantil sigue la misma lógica procedimental que en otras líneas de patronaje, con pasos y guías metodológicas equivalentes. La distinción técnica radica en las fórmulas de proporción, ajustadas a las características morfológicas del cuerpo infantil y a los rangos de talla correspondientes a cada etapa del desarrollo, tanto para prendas superiores como inferiores.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema5/7.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema5/7.png', alt='')
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7

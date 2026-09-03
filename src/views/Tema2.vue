@@ -186,14 +186,14 @@
           p Fabricación de vestuario y estudios antropométricos. Dimensiones corporales.
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema2/img04.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema2/img04.png', alt='')
 
       .row.justify-content-center(titulo="Norma UNE-EN 13402-3")
         .col-lg-6.mb-2.mb-md-0
           p Etiquetado de tallas de prendas de vestir, enfocadas al beneficio del consumidor. 
         .col-lg-5.col-11.col-md-10
           figure
-            img(src='@/assets/curso/Tema2/img05.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/Tema2/img05.png', alt='')
 
     p A continuación, encontrará tablas de fórmulas que le permitirán comprender cómo se realiza la deducción de medidas.
 

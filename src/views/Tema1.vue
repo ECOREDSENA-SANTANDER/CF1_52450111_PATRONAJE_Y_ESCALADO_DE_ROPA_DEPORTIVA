@@ -119,7 +119,7 @@
             .row.justify-content-center.mb-3
               .col-lg-5.col-6
                 figure
-                  img(src='@/assets/curso/Tema1/1.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/Tema1/1.svg', alt='')
             h4.text-center Hombros y cuello
             p.mb-0 Camisas, camisetas, blusas, chaquetas.
 
@@ -128,7 +128,7 @@
             .row.justify-content-center.mb-3
               .col-lg-5.col-6
                 figure
-                  img(src='@/assets/curso/Tema1/2.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/Tema1/2.svg', alt='')
             h4.text-center Busto y torso
             p.mb-0 Ropa interior, se contemplan las zonas de hombros y cuello, pero aquí radica en cómo la prenda se ajusta a esta área.
 
@@ -137,7 +137,7 @@
             .row.justify-content-center.mb-3
               .col-lg-5.col-6
                 figure
-                  img(src='@/assets/curso/Tema1/3.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/Tema1/3.svg', alt='')
             h4.text-center Cintura
             p.mb-0 Punto focal en relación al ajuste de prendas anteriores y similares. 
 
@@ -152,7 +152,7 @@
           .row.justify-content-center.mb-4
             .col-lg-6.col-6
               figure
-                img(src='@/assets/curso/Tema1/01.svg', alt='Texto que describa la imagen')          
+                img(src='@/assets/curso/Tema1/01.svg', alt='')          
           h3.text-center.text-white Caderas y glúteos
           p.text-white Bermudas, #[em leggins, shorts,] pantalones, faldas.
         
@@ -160,7 +160,7 @@
           .row.justify-content-center.mb-4
             .col-lg-6.col-6
               figure
-                img(src='@/assets/curso/Tema1/02.svg', alt='Texto que describa la imagen')          
+                img(src='@/assets/curso/Tema1/02.svg', alt='')          
           h2.text-center.text-white Muslos y piernas
           p.text-white Directamente relacionado con el ajuste de prendas anteriores.
         
@@ -168,7 +168,7 @@
           .row.justify-content-center.mb-4
             .col-6
               figure
-                img(src='@/assets/curso/Tema1/03.svg', alt='Texto que describa la imagen')          
+                img(src='@/assets/curso/Tema1/03.svg', alt='')          
           h2.text-center Tobillos y pies
           p Relacionado a prendas anteriores, se incluyen medias. 
 
