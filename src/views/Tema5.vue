@@ -43,7 +43,7 @@
               h4.mb-1 Conceptos de prepatronaje
               p.mb-0 Consulte las generalidades del patronaje y sus diferentes métodos.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/3_Anexo_3_Conceptos_de_prepatronaje.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_03_Conceptos_de_prepatronaje.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -65,7 +65,7 @@
               h4.mb-1 Pasos para definir el patronaje 
               p.mb-0 Pasos que se deben seguir para realizar el procedimiento de patronaje.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/4_Anexo_4_Pasos_para_definir_el_patronaje.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_04_Pasos_para_definir_el_patronaje.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -197,7 +197,7 @@
               h4.mb-1 Manual de patronaje básico e interpretación de diseños
               p.mb-0 Se invita a consultar el manual para fortalecer la comprensión de los fundamentos técnicos y el desarrollo de habilidades en la elaboración e interpretación de prendas de vestir.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/5_Anexo_5_Manual_de_patronaje_basico_e_interpretacion_de_disenos.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_05_Manual_de_patronaje_basico_e_interpretacion_de_disenos.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 

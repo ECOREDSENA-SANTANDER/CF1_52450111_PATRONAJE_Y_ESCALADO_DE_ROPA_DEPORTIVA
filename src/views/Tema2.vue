@@ -54,7 +54,7 @@
               h4.mb-1 Clasificación de las medidas
               p.mb-0 Conozca sobre los sistemas de medidas empleados en la confección de prendas de vestir.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/1_Anexo_1_Clasificacion_de_las_medidas.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_01_Clasificacion_de_las_medidas.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -207,7 +207,7 @@
               h4.mb-1 Análisis de cuadro de tallas
               p.mb-0 Conozca sobre el cuadro de tallas y la deducción de medidas.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/2_Anexo_2_Analisis_de_cuadro_de_tallas.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_02_Analisis_de_cuadro_de_tallas.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 </template>

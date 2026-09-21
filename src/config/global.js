@@ -225,22 +225,22 @@ export default {
   referencias: [
     {
       referencia:
-        'Barnfield, J., y Richards, A. (2013). Manual de patronaje de moda: diseño, adaptación y personalización de los patrones de costura. Promopress. ISBN 978-84-92810-82-6.',
+        'Barnfield, J., y Richards, A. (2013). Manual de patronaje de moda: diseño, adaptación y personalización de los patrones de costura. Promopress.',
       link: '',
     },
     {
       referencia:
-        'Donnanno, A. (2014). Técnicas de patronaje de moda, vol. 1: cómo realizar faldas, pantalones y camisas. Mujer/Hombre. Promopress. ISBN 978-84-15967-13-2.',
+        'Donnanno, A. (2014). Técnicas de patronaje de moda, vol. 1: cómo realizar faldas, pantalones y camisas. Mujer/Hombre. Promopress.',
       link: '',
     },
     {
       referencia:
-        'Drake, R. L., Vogl, A. W., y Mitchell, A. M. W. (2019). Gray. Anatomía para estudiantes (4.ª ed.). Elsevier. ISBN 978-84-9113-608-8.',
+        'Drake, R. L., Vogl, A. W., y Mitchell, A. M. W. (2019). Gray. Anatomía para estudiantes (4.ª ed.). Elsevier.',
       link: '',
     },
     {
       referencia:
-        'Esparza Ros, F. (Ed.). (1993). Manual de cineantropometría. Grupo Español de Cineantropometría; Federación Española de Medicina del Deporte (FEMEDE). ISBN 978-84-88100-08-5.',
+        'Esparza Ros, F. (Ed.). (1993). Manual de cineantropometría. Grupo Español de Cineantropometría; Federación Española de Medicina del Deporte (FEMEDE).',
       link: '',
     },
     {
@@ -250,22 +250,22 @@ export default {
     },
     {
       referencia:
-        'Kawamura, Y. (2005). Fashion-ology: an introduction to fashion studies. Berg Publishers. ISBN 978-1-85973-814-6.',
+        'Kawamura, Y. (2005). Fashion-ology: an introduction to fashion studies. Berg Publishers.',
       link: '',
     },
     {
       referencia:
-        'Lorenzo, M. R. (2017). Patronaje industrial en textil y piel. Videocinco Editorial. ISBN 978-84-16852-03-1.',
+        'Lorenzo, M. R. (2017). Patronaje industrial en textil y piel. Videocinco Editorial.',
       link: '',
     },
     {
       referencia:
-        'Nakamichi, T. (2012). Pattern magic, vol. 1: la magia del patronaje. Editorial Gustavo Gili. ISBN 978-84-252-2438-6.',
+        'Nakamichi, T. (2012). Pattern magic, vol. 1: la magia del patronaje. Editorial Gustavo Gili.',
       link: '',
     },
     {
       referencia:
-        'Norton, K., y Eston, R. (Eds.). (2019). Kinanthropometry and exercise physiology (4.ª ed.). Routledge. ISBN 978-1-138-23052-1.',
+        'Norton, K., y Eston, R. (Eds.). (2019). Kinanthropometry and exercise physiology (4.ª ed.). Routledge.',
       link: '',
     },
   ],

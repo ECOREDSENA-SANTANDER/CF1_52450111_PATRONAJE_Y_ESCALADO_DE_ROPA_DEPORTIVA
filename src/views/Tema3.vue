@@ -36,7 +36,6 @@
       span Clasificación de universos del vestuario por ocasión de uso
     .tabla-a.color-acento-contenido.mb-5
       table
-        caption Fuente: SENA (2025)
         thead
           tr
             th.text-izq Universo
@@ -90,7 +89,6 @@
           span Ocasión de uso por universo de vestuario
         .tabla-a.color-acento-contenido.mb-4
           table
-            caption Fuente: SENA, (2025)
             thead
               tr
                 th.w-25.text-izq Ocasión de uso
@@ -159,7 +157,7 @@
     #t_3_2.titulo-segundo.mb-5(data-aos="zoom-in-left")
       h2 3.2  Tipología de prendas infantiles
 
-    p Las tipologías de las prendas se clasifican en función de la estructura corporal. Por esta razón, para completar la etapa de conceptualización, resulta necesario realizar una clasificación que permita identificar las partes de las prendas según la arquitectura del cuerpo. En este sentido, se presenta el siguiente video.
+    p Las tipologías de las prendas se clasifican en función de la estructura corporal. Por esta razón, para completar la etapa de conceptualización, resulta necesario realizar una clasificación que permita identificar las partes de las prendas según la arquitectura del cuerpo. 
 
     .cajon.color-acento-contenido.p-4.mb-4
       p Se invita a consultar el video para comprender cómo el vestuario se adapta a diferentes contextos, estilos y funciones, según las ocasiones de uso y las necesidades del mercado.
