@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Esquema conceptual sobre el sistema de medidas y patronaje básico infantil. Se presentan varios ejes temáticos interrelacionados: estructura del cuerpo (antropometría, anatomía, biomecánica, morfología, ergonomía y división del cuerpo); análisis y clasificación de las medidas (sistemas de medidas y clasificación); moda (universos del vestuario, gamas de mercado y tipología de prendas infantiles de moda casual); textiles (aprovechamiento del material); y finalmente, prepatronaje y patronaje básico infantil (tipos de patronaje y líneas, y patrones básicos infantiles).")
+          img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual sobre el sistema de medidas y patronaje básico infantil, que relaciona estructura corporal, sistemas de medidas, moda, textiles y patronaje infantil.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
