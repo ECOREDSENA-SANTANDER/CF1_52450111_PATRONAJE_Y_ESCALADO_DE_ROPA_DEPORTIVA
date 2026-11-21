@@ -18,7 +18,7 @@
           br
           | A partir de este fundamento, el componente integra el análisis de los sistemas de medidas y los cuadros de tallas, la comprensión del sistema moda, sus universos de vestuario, el conocimiento básico de los textiles y su aprovechamiento, y la aplicación metodológica del prepatronaje y el patronaje básico infantil, tanto para prendas superiores como inferiores. 
     
-    p.mb-4 La metodología empleada toma como referencia el Manual de patronaje básico e interpretación de diseños del SENA, adaptando sus lineamientos a las condiciones morfológicas del cuerpo infantil y a las exigencias funcionales del vestuario deportivo. El dominio de los contenidos aquí desarrollados sienta las bases para abordar con rigor técnico los procesos de construcción, transformación y escalado de patrones.
+    p.mb-4 La metodología empleada toma como referencia el manual de patronaje básico e interpretación de diseños del SENA, adaptando sus lineamientos a las condiciones morfológicas del cuerpo infantil y a las exigencias funcionales del vestuario deportivo. El dominio de los contenidos aquí desarrollados sienta las bases para abordar con rigor técnico los procesos de construcción, transformación y escalado de patrones.
     
   
 

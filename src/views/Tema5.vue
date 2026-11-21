@@ -139,13 +139,13 @@
     .row.justify-content-center.align-items-center.mb-2(data-aos='fade-right')
       .col-lg-4
         .cajon.color-secundario.p-1.mb-3
-          p.text-center.align-items-center Escala 1:1 (tamaño real).
+          p.mb-0.text-center.align-items-center Escala 1:1 (tamaño real).
       .col-lg-4
         .cajon.color-secundario.p-1.mb-3
-          p.text-center.align-items-center Escala 1:2 (mitad).
+          p.mb-0.text-center.align-items-center Escala 1:2 (mitad).
       .col-lg-4
         .cajon.color-secundario.p-1.mb-3
-          p.text-center.align-items-center Escala 1:4 (cuarta parte).
+          p.mb-0.text-center.align-items-center Escala 1:4 (cuarta parte).
 
     p El trazo a escala es útil para construir patrones base en versiones reducidas y facilitar su análisis.
 

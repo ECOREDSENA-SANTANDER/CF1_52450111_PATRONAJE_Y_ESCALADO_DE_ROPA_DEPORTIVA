@@ -33,7 +33,7 @@
             .tarjeta.color-acento-contenido
               .p-4
                 h4.text-center Sistema inglés
-                p.mb-0.text-center Se contempla como unidad básica de medida la pulgada, aplicada en procesos de patronaje en países como Estados Unidos, Inglaterra y Australia.
+                p.mb-0 Se contempla como unidad básica de medida la pulgada, aplicada en procesos de patronaje en países como Estados Unidos, Inglaterra y Australia.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
@@ -41,7 +41,7 @@
             .tarjeta.color-acento-botones
               .p-4
                 h4.text-center Sistema internacional o métrico decimal
-                p.mb-0.text-center Se contempla como unidad básica de medida el metro, aplicado en la gran mayoría de países latinoamericanos. 
+                p.mb-0 Se contempla como unidad básica de medida el metro, aplicado en la gran mayoría de países latinoamericanos. 
 
 
     .tarjeta.fondo-banner.p-4.mb-0(data-aos="zoom-in-left")
@@ -119,7 +119,7 @@
             .tarjeta.color-acento-contenido
               .p-4
                 h4.text-center Canon
-                p.mb-0.text-center Prototipo de cuerpo físico que reúne características consideradas casi perfectas en su género, referidas específicamente a la figura humana en relación a la percepción de proporcionalidad. 
+                p.mb-0 Prototipo de cuerpo físico que reúne características consideradas casi perfectas en su género, referidas específicamente a la figura humana en relación a la percepción de proporcionalidad. 
 
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
@@ -127,7 +127,7 @@
             .tarjeta.color-acento-botones
               .p-4
                 h4.text-center Proporción
-                p.mb-0.text-center Hace referencia a la relación de correspondencia entre equilibrio o simetría que están presentes entre las partes de un todo. Es esencial en disciplinas como el arte, la moda, la arquitectura entre otras. 
+                p.mb-0 Hace referencia a la relación de correspondencia entre equilibrio o simetría que están presentes entre las partes de un todo. Es esencial en disciplinas como el arte, la moda, la arquitectura entre otras. 
 
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
