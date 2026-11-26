@@ -97,13 +97,13 @@
             
       p A partir de lo abordado en los conceptos anteriores, es indispensable saber cómo se contempla la división del cuerpo en relación a sus miembros para poder entenderlo a partir de la clasificación de las prendas inferiores y superiores. 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
-        .col-lg-10.mb-3
+        .col-lg-11.mb-3
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 3.
             span División del cuerpo
           figure
               img(src='@/assets/curso/Tema1/fig3.svg', alt='Esquema de un cuerpo humano dividido en regiones anatómicas, cada una diferenciada por un color. Las etiquetas identifican cabeza, cráneo, cara, cuello, tórax, abdomen, pelvis, brazo, antebrazo, mano, muslo, pierna y pie. Los términos "miembro superior" y "miembro inferior" agrupan extremidades.')
-        .col-lg-10
+        .col-lg-11
           .cajon.color-primario.p-4.mb-0
             p Teniendo en cuenta la imagen anterior, las prendas de vestir se distribuyen a partir de los miembros superiores y miembros inferiores. 
       

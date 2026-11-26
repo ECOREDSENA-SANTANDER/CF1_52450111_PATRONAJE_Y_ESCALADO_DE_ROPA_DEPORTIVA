@@ -104,7 +104,7 @@
                     li
                       i
                       |Formal
-              tr
+              tr.bg5
                 td Multiocasión
                 td Casual
 
@@ -127,7 +127,7 @@
                     li
                       i
                       | #[em Leisurewear]
-              tr
+              tr.bg5
                 td Complementos
                 td
                   ul.lista-ul

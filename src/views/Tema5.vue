@@ -85,43 +85,39 @@
           img.w-card-icon(src="@/assets/curso/Tema1/icono.svg")
           h3.bg1.py-2.w-card-text.text-white Metodología – convenciones
 
-    .row.justify-content-center.align-items-center.mb-3(data-aos='fade-right')
-      .col-lg-7.mb-3
-        .row  
-          .col-lg-2.mb-3.col-4.col-md-2
-            img(src="@/assets/curso/Tema5/img03.svg")
-          .col-lg-12
-            p En el patronaje, es esencial conocer y aplicar una serie de símbolos que facilitan la interpretación técnica de los patrones y el proceso de corte. Estas convenciones gráficas permiten leer los planos sin necesidad de textos extensos o referencias alfanuméricas, además de indicar cómo deben posicionarse las piezas al momento del corte.
-            p Al despiezar un patrón, cada pieza debe estar claramente identificada con:
-      .col-lg-5
-        .cajon.color-secundario.p-4.mb-4
+    .row.justify-content-center.mb-3(data-aos='fade-right')
+      .col-lg-4.mb-3
+        p En el patronaje, es esencial conocer y aplicar una serie de símbolos que facilitan la interpretación técnica de los patrones y el proceso de corte. Estas convenciones gráficas permiten leer los planos sin necesidad de textos extensos o referencias alfanuméricas, además de indicar cómo deben posicionarse las piezas al momento del corte.
+        p Al despiezar un patrón, cada pieza debe estar claramente identificada con:
+      .col-lg-8
+        .cajon.color-secundario.p-3.mb-3
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-8.mb-4.col-md-4
+            .col-lg-3.col-8.mb-4.col-md-4
               img(src="@/assets/curso/Tema5/img04.svg")
-            .col-lg-8
+            .col-lg-6
               ul.lista-ul
-                li
+                li.mb-0
                   i
                   |• Nombre de la pieza.
-                li
+                li.mb-0
                   i
                   |• Referencia.
-                li
+                li.mb-0
                   i
                   |• Talla.
-                li
+                li.mb-0
                   i
                   |• Nombre del patronista.
-                li
+                li.mb-0
                   i
                   |• Simbología de corte.
-                li
+                li.mb-0
                   i
                   |• Cantidad de veces a cortar.
-                li
+                li.mb-0
                   i
                   |• Piquetes de confección.
-                li
+                li.mb-0
                   i
                   |• Líneas de aplome.
             

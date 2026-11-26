@@ -92,12 +92,12 @@
     p En la siguiente figura se presentan largos, anchos y contornos de la figura humana infantil. 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
-      .col-lg-10
+      .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 4.
           span Toma de medidas infantil
       .col-lg-12
-        img(src="@/assets/curso/Tema2/fig4.png", alt="Diagrama de una figura femenina con líneas y números que señalan puntos clave de medición corporal, incluyendo contornos, anchos, largos y estatura total, utilizados como referencia en patronaje y confección.")
+        img(src="@/assets/curso/Tema2/fig4.svg", alt="Diagrama de una figura femenina con líneas y números que señalan puntos clave de medición corporal, incluyendo contornos, anchos, largos y estatura total, utilizados como referencia en patronaje y confección.")
 
     separador
     #t_2_3.titulo-segundo.mb-5(data-aos="zoom-in-left")
@@ -183,14 +183,14 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in-left")
       .row.justify-content-center(titulo="Norma Técnica Colombiana NTC-ISO 8559:1995")
         .col-lg-6.mb-2.mb-md-0
-          p Fabricación de vestuario y estudios antropométricos. Dimensiones corporales.
+          p Fabricación de vestuario y estudios antropométricos. Dimensiones corporales. Establece criterios para identificar y determinar las dimensiones del cuerpo humano utilizadas en los estudios antropométricos y en la fabricación de prendas de vestir. Orienta la ubicación de los puntos anatómicos y la identificación de las medidas corporales necesarias para desarrollar patrones, maniquíes y sistemas de tallas. Su aplicación permite obtener información organizada y estandarizada para mejorar el ajuste y la adaptación de las prendas a las características físicas de la población.
         .col-lg-5.col-11.col-md-10
           figure
             img(src='@/assets/curso/Tema2/img04.png', alt='')
 
       .row.justify-content-center(titulo="Norma UNE-EN 13402-3")
         .col-lg-6.mb-2.mb-md-0
-          p Etiquetado de tallas de prendas de vestir, enfocadas al beneficio del consumidor. 
+          p Designación de tallas de las prendas de vestir. Parte 3: Etiquetado de tallas a partir de mediciones e intervalos corporales. Describe un sistema de tallaje basado en las dimensiones corporales y establece criterios para relacionar las medidas del cuerpo con las tallas asignadas a las prendas. Incluye ejemplos de tablas de medidas e intervalos para hombres, mujeres, niños, niñas y bebés, así como orientaciones para el etiquetado mediante pictogramas normalizados. Su propósito es facilitar la comprensión de las tallas por parte de los consumidores y favorecer la uniformidad en la identificación de las prendas. Es importante precisar que esta norma establece dimensiones corporales de referencia, no medidas específicas de las prendas confeccionadas.  
         .col-lg-5.col-11.col-md-10
           figure
             img(src='@/assets/curso/Tema2/img05.png', alt='')
